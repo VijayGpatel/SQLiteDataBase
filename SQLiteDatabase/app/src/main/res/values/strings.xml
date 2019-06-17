@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="filltext">Fill User Detail</string>
+
+    <!--Hint of form-->
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_state">Enter Your State Name</string>
+    <string name="hint_city">Enter Your City Name</string>
+    <string name="hint_number">Enter Your Mobile No</string>
+    <string name="hint_email">Enter Your Email-Id</string>
+
+    <!-- button text-->
+    <string name="add_data">Add</string>
+    <string name="read_data">Read</string>
+    <string name="delete_data">Delete</string>
+    <string name="update_data">Update</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="please_enter_email">Please Enter Email Id</string>
+    <string name="please_enter_phone">Please Enter Phone No</string>
+    <string name="please_enter_city">Please Enter City Name</string>
+    <string name="please_enter_state">Please Enter State Name</string>
+    <string name="insert_successfully">Insert User Detail Successfully</string>
+    <string name="loading">Loading</string>
+    <string name="delete_successfully">Delete Successfully</string>
+    <string name="no_user_data">No Any User Data</string>
+    <string name="updateuser">Update User Detail</string>
+    <string name="cancle">Cancle</string>
+    <string name="updatesucessfully">Update User Detail Successfully</string>
+</resources>
